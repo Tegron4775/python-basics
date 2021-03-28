@@ -1,0 +1,7 @@
+print('''a was integer and converted into float and b was float and converted into the integer''')
+a=float(90)
+b=int(12.90)
+print(a)
+print(b)
+print(type(a))
+print(type(b))
